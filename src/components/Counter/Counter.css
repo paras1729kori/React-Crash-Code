@@ -1,0 +1,6 @@
+/* Another way of styling in react */
+.btnStyle {
+    padding: 10px;
+    border: #000 2px solid;
+    border-radius: 20px;
+}
