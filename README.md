@@ -9,3 +9,7 @@ Steps:
 * Run `npm start`
 
 The code comprises of different components written to explain important comcepts of React [viz. useState, useEffect, useContext, Conditional Rendering, etc]
+
+## Learn More
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+To learn React, check out the [React documentation](https://reactjs.org/)
