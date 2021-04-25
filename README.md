@@ -6,4 +6,4 @@ The repository contains all the code that was taught during the sessions. The fl
 Steps:
 * Intall [Node](https://nodejs.org/en/download/)
 * Clone the repo
-* Run `[npm start]`
+* Run `npm start`
