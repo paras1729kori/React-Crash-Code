@@ -7,3 +7,5 @@ Steps:
 * Intall [Node](https://nodejs.org/en/download/)
 * Clone the repo
 * Run `npm start`
+
+The code comprises of different components written to explain important comcepts of React [viz. useState, useEffect, useContext, Conditional Rendering, etc]
