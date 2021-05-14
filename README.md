@@ -10,6 +10,11 @@ Steps:
 
 The code comprises of different components written to explain important comcepts of React [viz. useState, useEffect, useContext, Conditional Rendering, etc]
 
+## Synopsis
+![R1](https://user-images.githubusercontent.com/61196454/118247389-bfd41580-b4c0-11eb-9c07-c4cd836233ce.png)
+![R2](https://user-images.githubusercontent.com/61196454/118247394-c1054280-b4c0-11eb-80ca-c5429af0ae5f.png)
+
+
 ## Learn More
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 
